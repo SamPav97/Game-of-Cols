@@ -7,7 +7,7 @@ The Main Logic
 
 Description: This game is played in the IDE console. It has no frontend GUI.
 
-Experience gained with: Algorithmic problem solving, Data Structures (matrices, lists, dictionaries), Functional Programming/
+Experience gained with: Algorithmic problem solving, Data Structures (matrices, lists, dictionaries), Functional Programming.
 
 Skills obtained: Advanced algorithmic thought, ability to deal with sophisticated data structures.
 
