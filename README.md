@@ -2,15 +2,14 @@
 
 The Main Logic
 •	A player wins when he/she connects four slots.
-•	The winning connected slots must be consecutive
-•	A connection can be
-o	Horizontal
-o	Vertical
-o	Diagonal
+•	The winning connected slots must be consecutive.
+•	A connection can be: Horizontal, Vertical, Diagonal.
 
+Description: This game is played in the IDE console. It has no frontend GUI.
 
+Experience gained with: Algorithmic problem solving, Data Structures (matrices, lists, dictionaries), Functional Programming/
 
+Skills obtained: Advanced algorithmic thought, ability to deal with sophisticated data structures.
 
-I crated this game using matrices. It works as it is. I plan to add a file, which keeps the score of the two players.
-Further instructions for how to play the game must be added. 
+Necessary future additions: I plan to add a file, which keeps the score of the two players.
 
